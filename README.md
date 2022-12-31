@@ -1,0 +1,2 @@
+# vimium-options
+vimium configurations
