@@ -40,6 +40,10 @@
     {
       "pattern": "https?://www.bilibili.com/*",
       "passKeys": "e"
+    },
+    {
+      "pattern": "https?://chat.openai.com/*",
+      "passKeys": ""
     }
   ],
   "filterLinkHints": false,
